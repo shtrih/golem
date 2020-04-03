@@ -1,0 +1,5 @@
+pyautogui
+pygetwindow
+pillow
+numpy
+astar_python
